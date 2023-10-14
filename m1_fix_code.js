@@ -21,5 +21,8 @@ function main(n){
             return false;
         }
     }
-    return true;
+    return true
 }
+
+
+Prime_Or_Not(9)
